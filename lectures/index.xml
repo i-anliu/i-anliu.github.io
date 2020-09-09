@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lectures | Academic</title>
+    <link>/lectures/</link>
+      <atom:link href="/lectures/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lectures</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Sep 2020 13:43:40 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lectures</title>
+      <link>/lectures/</link>
+    </image>
+    
+    <item>
+      <title>Algorithm Design</title>
+      <link>/lectures/algo_course/</link>
+      <pubDate>Wed, 09 Sep 2020 13:43:40 +0800</pubDate>
+      <guid>/lectures/algo_course/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TOPIC&lt;/th&gt;
+&lt;th&gt;SLIDES&lt;/th&gt;
+&lt;th&gt;READINGS&lt;/th&gt;
+&lt;th&gt;DEMOS&lt;/th&gt;
+&lt;th&gt;HOMEWORK&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;00Introduction&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/algo/00Introduction.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;01StableMatching&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/algo/01StableMatching.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/algo/01DemoGaleShapley.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/algo/women1000.pdf&#34; target=&#34;_blank&#34;&gt;women1000&lt;/a&gt; , &lt;a href=&#34;/files/algo/man1000.pdf&#34; target=&#34;_blank&#34;&gt;man1000&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Python Programming</title>
+      <link>/lectures/python_course_1/</link>
+      <pubDate>Wed, 09 Oct 2019 13:43:40 +0800</pubDate>
+      <guid>/lectures/python_course_1/</guid>
+      <description>&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;TOPIC&lt;/th&gt;
+&lt;th&gt;SLIDES&lt;/th&gt;
+&lt;th&gt;READINGS&lt;/th&gt;
+&lt;th&gt;DEMOS&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;01 - 基础知识&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/01%20-%20%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02a - 元组&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/02a%20-%20%e5%85%83%e7%bb%84.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02b - 输入输出&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/02b%20-%20%e8%be%93%e5%85%a5%e8%be%93%e5%87%ba.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;03 - 条件与循环&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/03%20-%20%e6%9d%a1%e4%bb%b6%e4%b8%8e%e5%be%aa%e7%8e%af.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;04 - 列表-进阶应用&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/04%20-%20%e5%88%97%e8%a1%a8-%e8%bf%9b%e9%98%b6%e5%ba%94%e7%94%a8.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;05 - 函数 - 基础知识与递归&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/05%20-%20%e5%87%bd%e6%95%b0%20-%20%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86%e4%b8%8e%e9%80%92%e5%bd%92.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;06 - 字符串 - 基本方法&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/06%20-%20%e5%ad%97%e7%ac%a6%e4%b8%b2%20-%20%e5%9f%ba%e6%9c%ac%e6%96%b9%e6%b3%95.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;07 - 字典&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/07%20-%20%e5%ad%97%e5%85%b8.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;08 - 函数 - 作用域、参数传递和进阶应用&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/08%20-%20%e5%87%bd%e6%95%b0%20-%20%e4%bd%9c%e7%94%a8%e5%9f%9f%e3%80%81%e5%8f%82%e6%95%b0%e4%bc%a0%e9%80%92%e5%92%8c%e8%bf%9b%e9%98%b6%e5%ba%94%e7%94%a8.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;09 - 集合&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/09%20-%20%e9%9b%86%e5%90%88.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;10 - 正则表达式&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/10%20-%20%e6%ad%a3%e5%88%99%e8%a1%a8%e8%be%be%e5%bc%8f.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;11 - 文件&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/11%20-%20%e6%96%87%e4%bb%b6.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;12 - 异常&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/12%20-%20%e5%bc%82%e5%b8%b8.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
