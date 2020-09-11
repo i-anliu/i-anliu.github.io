@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lectures | Academic</title>
+    <title>Lectures | An Liu</title>
     <link>/lectures/</link>
       <atom:link href="/lectures/index.xml" rel="self" type="application/rss+xml" />
     <description>Lectures</description>
@@ -17,7 +17,17 @@
       <link>/lectures/algo_course/</link>
       <pubDate>Wed, 09 Sep 2020 13:43:40 +0800</pubDate>
       <guid>/lectures/algo_course/</guid>
-      <description>&lt;table&gt;
+      <description>&lt;hr&gt;
+&lt;p&gt;作业提交服务器：ftp://192.168.126.193&lt;/p&gt;
+&lt;p&gt;用户名：stu&lt;/p&gt;
+&lt;p&gt;密码：stu1234&lt;/p&gt;
+&lt;p&gt;注意：请将需要提交的材料打包成zip文件，用自己的学号命名，上传至对应的文件夹中（比如第一次作业上传至Homework1中）&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Thanks 
+&lt;a href=&#34;https://www.cs.princeton.edu/~wayne/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevin Wayne&lt;/a&gt; for sharing his slides with us.&lt;/p&gt;
+&lt;p&gt;If you want more slides, please go to 
+&lt;a href=&#34;https://www.cs.princeton.edu/~wayne/kleinberg-tardos/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lecture Slides for Algorithm Design&lt;/a&gt;.&lt;/p&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;TOPIC&lt;/th&gt;
@@ -40,7 +50,7 @@
 &lt;td&gt;&lt;a href=&#34;/files/algo/01StableMatching.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;/files/algo/01DemoGaleShapley.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;/files/algo/women1000.pdf&#34; target=&#34;_blank&#34;&gt;women1000&lt;/a&gt; , &lt;a href=&#34;/files/algo/man1000.pdf&#34; target=&#34;_blank&#34;&gt;man1000&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/algo/Homework1.zip&#34; target=&#34;_blank&#34;&gt;Homework1&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

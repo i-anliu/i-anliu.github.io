@@ -7,12 +7,12 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/lectures/algo_course/</loc>
     <lastmod>2020-09-09T13:43:40+08:00</lastmod>
   </url>
   
   <url>
-    <loc>/lectures/algo_course/</loc>
+    <loc>/</loc>
     <lastmod>2020-09-09T13:43:40+08:00</lastmod>
   </url>
   
@@ -37,6 +37,11 @@
   </url>
   
   <url>
+    <loc>/author/guanfeng-liu/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/hui-zhao/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -52,7 +57,17 @@
   </url>
   
   <url>
+    <loc>/author/lei-zhao/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/mingjun-xiao/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/is2020-early/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -63,6 +78,16 @@
   
   <url>
     <loc>/publication/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/qing-li/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/tkde2020-early/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -82,7 +107,22 @@
   </url>
   
   <url>
+    <loc>/author/xiangliang-zhang/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/xiaofang-zhou/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yanan-zhang/</loc>
+    <lastmod>2020-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yifan-zhang/</loc>
     <lastmod>2020-04-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -93,11 +133,6 @@
   
   <url>
     <loc>/publication-type/1/</loc>
-    <lastmod>2019-11-08T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/guanfeng-liu/</loc>
     <lastmod>2019-11-08T00:00:00+00:00</lastmod>
   </url>
   
@@ -129,6 +164,21 @@
   <url>
     <loc>/author/huizhao-wang/</loc>
     <lastmod>2019-08-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/geo2018/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/shuo-shang/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/weiqi-wang/</loc>
+    <lastmod>2018-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
