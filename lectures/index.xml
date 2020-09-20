@@ -21,7 +21,16 @@
 &lt;p&gt;作业提交服务器：ftp://192.168.126.193&lt;/p&gt;
 &lt;p&gt;用户名：stu&lt;/p&gt;
 &lt;p&gt;密码：stu1234&lt;/p&gt;
-&lt;p&gt;注意：请将需要提交的材料打包成zip文件，用自己的学号命名，上传至对应的文件夹中（比如第一次作业上传至Homework1中）&lt;/p&gt;
+&lt;p&gt;❗注意事项&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;请将需要提交的材料打包成zip文件，用自己的学号命名，上传至对应的文件夹中（比如第一次作业上传至Homework1中）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;涉及伪代码和数学公式的作业，推荐大家使用在线$\LaTeX$编辑器
+&lt;a href=&#34;https://www.overleaf.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Overleaf&lt;/a&gt;完成，提交编译生成的pdf文档即可。如果需要在overleaf中输入中文并能正确编译，首先在文档中加入package:&lt;code&gt;\usepackage[UTF8]{ctex}&lt;/code&gt;，然后修改设置：设置-&amp;gt;修改Latex引擎-&amp;gt;选择“XeLatex”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;hr&gt;
 &lt;p&gt;Thanks 
 &lt;a href=&#34;https://www.cs.princeton.edu/~wayne/contact/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kevin Wayne&lt;/a&gt; for sharing his slides with us.&lt;/p&gt;
@@ -39,18 +48,25 @@
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;00Introduction&lt;/td&gt;
+&lt;td&gt;00 Introduction&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;/files/algo/00Introduction.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;01StableMatching&lt;/td&gt;
+&lt;td&gt;01 Stable Matching&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;/files/algo/01StableMatching.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;/files/algo/01DemoGaleShapley.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;/files/algo/Homework1.zip&#34; target=&#34;_blank&#34;&gt;Homework1&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02 Algorithm Analysis&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/algo/02AlgorithmAnalysis.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/algo/02DemoBinarySearch.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/algo/Homework2.pdf&#34; target=&#34;_blank&#34;&gt;Homework2&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -75,6 +91,12 @@
 &lt;tr&gt;
 &lt;td&gt;01 - 基础知识&lt;/td&gt;
 &lt;td&gt;&lt;a href=&#34;/files/python_course/01%20-%20%e5%9f%ba%e7%a1%80%e7%9f%a5%e8%af%86.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;02 - 列表&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;/files/python_course/02%20-%20%e5%88%97%e8%a1%a8-%e5%9f%ba%e7%a1%80%e6%a6%82%e5%bf%b5.pdf&#34; target=&#34;_blank&#34;&gt;link&lt;/a&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;td&gt;&lt;/td&gt;
 &lt;/tr&gt;
