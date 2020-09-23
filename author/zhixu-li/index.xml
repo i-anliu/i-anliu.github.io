@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhixu Li | An Liu</title>
-    <link>/author/zhixu-li/</link>
-      <atom:link href="/author/zhixu-li/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0/author/zhixu-li/</link>
+      <atom:link href="http://0.0.0.0/author/zhixu-li/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhixu Li</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Zhixu Li</title>
-      <link>/author/zhixu-li/</link>
+      <link>http://0.0.0.0/author/zhixu-li/</link>
     </image>
     
     <item>
       <title>Personalized Geographical Influence Modeling for POI Recommendation</title>
-      <link>/publication/is2020-early/</link>
+      <link>http://0.0.0.0/publication/is2020-early/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/is2020-early/</guid>
+      <guid>http://0.0.0.0/publication/is2020-early/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
   &lt;/div&gt;
@@ -30,9 +30,9 @@
     
     <item>
       <title>Representation Learning with Multi-level Attention for Activity Trajectory Similarity Computation</title>
-      <link>/publication/tkde2020-early/</link>
+      <link>http://0.0.0.0/publication/tkde2020-early/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tkde2020-early/</guid>
+      <guid>http://0.0.0.0/publication/tkde2020-early/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
   &lt;/div&gt;
@@ -46,9 +46,9 @@
     
     <item>
       <title>SRA: Secure Reverse Auction for Task Assignment in Spatial Crowdsourcing</title>
-      <link>/publication/tkde2020/</link>
+      <link>http://0.0.0.0/publication/tkde2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tkde2020/</guid>
+      <guid>http://0.0.0.0/publication/tkde2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
   &lt;/div&gt;
@@ -62,9 +62,9 @@
     
     <item>
       <title>Reinforcement Learning Based Monte Carlo Tree Search for Temporal Path Discovery</title>
-      <link>/publication/icdm2019/</link>
+      <link>http://0.0.0.0/publication/icdm2019/</link>
       <pubDate>Fri, 08 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/icdm2019/</guid>
+      <guid>http://0.0.0.0/publication/icdm2019/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
   &lt;/div&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>DMRAN: A Hierarchical Fine-Grained Attention-Based Network for Recommendation</title>
-      <link>/publication/ijcai2019/</link>
+      <link>http://0.0.0.0/publication/ijcai2019/</link>
       <pubDate>Sat, 10 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/ijcai2019/</guid>
+      <guid>http://0.0.0.0/publication/ijcai2019/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
   &lt;/div&gt;

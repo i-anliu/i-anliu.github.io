@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hui Zhao | An Liu</title>
-    <link>/author/hui-zhao/</link>
-      <atom:link href="/author/hui-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0/author/hui-zhao/</link>
+      <atom:link href="http://0.0.0.0/author/hui-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Hui Zhao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Hui Zhao</title>
-      <link>/author/hui-zhao/</link>
+      <link>http://0.0.0.0/author/hui-zhao/</link>
     </image>
     
     <item>
       <title>SRA: Secure Reverse Auction for Task Assignment in Spatial Crowdsourcing</title>
-      <link>/publication/tkde2020/</link>
+      <link>http://0.0.0.0/publication/tkde2020/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/tkde2020/</guid>
+      <guid>http://0.0.0.0/publication/tkde2020/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
   &lt;/div&gt;

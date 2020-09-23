@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weiqi Wang | An Liu</title>
-    <link>/author/weiqi-wang/</link>
-      <atom:link href="/author/weiqi-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://0.0.0.0/author/weiqi-wang/</link>
+      <atom:link href="http://0.0.0.0/author/weiqi-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Weiqi Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Weiqi Wang</title>
-      <link>/author/weiqi-wang/</link>
+      <link>http://0.0.0.0/author/weiqi-wang/</link>
     </image>
     
     <item>
       <title>Efficient task assignment in spatial crowdsourcing with worker and task privacy protection</title>
-      <link>/publication/geo2018/</link>
+      <link>http://0.0.0.0/publication/geo2018/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/geo2018/</guid>
+      <guid>http://0.0.0.0/publication/geo2018/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
   &lt;/div&gt;
