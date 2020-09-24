@@ -152,6 +152,11 @@
   </url>
   
   <url>
+    <loc>http://0.0.0.0/lectures/python_course/</loc>
+    <lastmod>2019-10-09T13:43:40+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://0.0.0.0/lectures/python_course_1/</loc>
     <lastmod>2019-10-09T13:43:40+08:00</lastmod>
   </url>
@@ -182,11 +187,23 @@
   </url>
   
   <url>
+    <loc>http://0.0.0.0/homework/python/1/</loc>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0/homework/python/2/</loc>
+  </url>
+  
+  <url>
     <loc>http://0.0.0.0/lectures/python_hm/hm1/</loc>
   </url>
   
   <url>
     <loc>http://0.0.0.0/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://0.0.0.0/homework/</loc>
   </url>
   
   <url>
