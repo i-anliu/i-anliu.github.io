@@ -106,7 +106,112 @@ b=t
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;编写一个函数，输入参数是两个列表$a$和$b$，以列表返回它们的公共元素。比如当a=[1, 2, 3]，b=[2, 3, 4]时，返回列表c=[2, 3]。&lt;/li&gt;
+&lt;li&gt;编写一个函数，输入参数是两个列表$a$和$b$，以列表返回它们的公共元素。比如当$a$=[1, 2, 3]，$b$=[2, 3, 4]时，返回列表$c$=[2, 3]。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是一个整数列表$L$和一个整数$t$，如果$t$不在$L$中，返回$L$，否则将$t$前面的元素和后面的元素分别反转，返回反转后的$L$。比如当$L$=[1, 2, 3, 4, 5, 6]，$t$=4时，反转后的列表是[3, 2, 1, 4, 6, 5]。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://0.0.0.0/homework/python/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://0.0.0.0/homework/python/3/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;三角形可以分成三类：等边三角形，等腰三角形和不等边三角形。编写一个函数，输入参数是三个正整数，如果这三个数可以满足构成三角形三条边的关系，则返回这个三角形的类型：等边三角形返回1，等腰三角形返回2，不等边三角形返回3；否则，返回None&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;假设Spring的第一天是March 20，Summer的第一天是June 21，Autumn的第一天是September 22，Winter的第一天是December 21。编写一个函数，输入参数是一个字符串month和一个整数day，返回month和day表示的季节。比如输入是June和20，返回Spring。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是一个正整数，如果该数是质数，返回True，否则返回False。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是一个正整数，返回该数所有的数字之和。比如输入是12345，那么返回15。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是三个正整数，返回这三个数的最小公倍数。比如输入是2, 3, 8，那么返回24。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://0.0.0.0/homework/python/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://0.0.0.0/homework/python/4/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;编写一个函数，输入参数是一个列表和一个数$t$，如果列表中没有数是$t$的倍数，返回True，否则返回False。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是两个列表，以列表的形式返回这两个列表的公共元素。比如输入[1, 2, 3, 4, 5]和[2, 3, 5, 7, 11]，那么返回列表[2, 3, 5]。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是一个列表和一个数$t$，返回该列表中最大的能整除$t$的数。比如输入列表是[3, 6, 2, 9, 12]，$t$等于18，那么返回9。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;如果一个字符串正读和反读是一样的，那么称其是回文串。比如’ada’就是一个回文串。编写一个函数，输入参数是一个字符串，如果它是回文串，返回True，否则返回False。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;串中任意个连续的字符组成的子序列称为该串的子串。比如’ab’就是’cab’的子串，但不是’acb’的子串。编写一个函数，输入参数是两个字符串$A$和$B$，如果$B$是$A$的子串，返回True，否则返回False。&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://0.0.0.0/homework/python/5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://0.0.0.0/homework/python/5/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;编写一个函数，输入参数是一个正整数$n$，返回第一个大于$n$的质数。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;如果一个正整数$n$的所有因子（不包括其本身）之和等于$n$，称该数是完美数。比如28的所有因子之和是1+2+4+7+14=28，所以它是一个完美数。编写一个函数，输入参数是一个正整数，如果其是完美数，返回True，否则返回False。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;一个正整数的密度定义为其各位数字的和与其位数的商。比如1234的密度是(1+2+3+4)/4=2.5。编写一个函数，输入参数是一个正整数，返回该数的密度。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是一个整数列表，返回该列表中出现次数最多的数以及它的出现次数。比如输入列表是[1,2,3,2,3,4,3,4,5]，那么返回(3, 3)，因为数字3出现次数最多，共出现了3次。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;斐波那契数列的前两项是1和1，后面每项都是其前两项的和，即1,1,2,3,5,8,13,21,…。编写一个函数，输入参数是正整数$n$，返回斐波那契数列前$n$项的和。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;6&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是两个正整数$a$和$n$，返回$S_n=a+aa+\cdots+\overbrace{a\cdots a}^{n}$的值。比如当$a$=3，$n$=5时，返回值为3+33+333+3333+33333=37035&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;7&#34;&gt;
+&lt;li&gt;如果一个质数倒过来写仍然是一个质数，那么称其是反质数。比如17倒过来写是71，且两者均为质数，所以17和71都是反质数。编写一个函数，输入参数是一个正整数$n$，以列表的形式返回前$n$个反质数。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;8&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是一个整数列表，将其按照整数的因子个数从大到小排序，如果因子个数相等，则按照整数自然大小升序排序，返回排序后的列表。比如输入列表是[14, 12, 6]，返回列表是[12, 6, 14] 。因为14有3个因子（1, 2, 7），12有5个因子（1, 2, 3, 4, 6），6有3个因子（1, 2, 3）。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;9&#34;&gt;
+&lt;li&gt;如果一个字符串可以通过重新排列另一个字符串的字符得到，称这两个字符串同构。比如字符串cat和act同构，字符串leader和dealer同构。编写一个函数，输入参数是两个由小写字符组成的字符串，如果它们是同构的，返回True，否则返回False。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;ol start=&#34;10&#34;&gt;
+&lt;li&gt;编写一个函数，输入参数是一个字符串列表，将其中同构的字符串删除，返回删除后的列表。比如输入列表是[‘cat’, ‘leader’, ‘bus’, ‘act’, ‘dealer’, ‘but’]，返回列表是[‘bus’, ‘but’]。因为cat和act同构，leader和dealer同构。&lt;/li&gt;
 &lt;/ol&gt;
 </description>
     </item>

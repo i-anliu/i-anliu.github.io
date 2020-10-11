@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content=" 构造合适的range对象，生成下列序列：   50, 60, 70, 80 8, 6, 4, 2, 0, -2, -4, -6, -8   使用列表推导，生成下列列表：   [1, 2, 4, 8, 16, 32, 64, 128] [0, 2, 6, 12, 20, 30, 42, 56] [1, -3, 5, -7, 9, -11, 13, -15]   使用列表推导，在不输入所有26个英文字母的情况下产生列表[&lsquo;a&rsquo;, &lsquo;b&rsquo;, &lsquo;c&rsquo;, &hellip;, &lsquo;z&rsquo;]。提示：可以使用内置函数chr()和ord()。   编写一个函数，输入参数是一个字符串，返回其中元音字母的个数。   编写一个函数，输入参数是两个列表$a$和$b$，返回列表$c$，其第$i$个元素$c[i]=a[i]\times b[i]$。   编写一个函数，输入参数是两个列表$a$和$b$，以列表返回它们的公共元素。比如当$a$=[1, 2, 3]，$b$=[2, 3, 4]时，返回列表$c$=[2, 3]。   编写一个函数，输入参数是一个整数列表$L$和一个整数$t$，如果$t$不在$L$中，返回$L$，否则将$t$前面的元素和后面的元素分别反转，返回反转后的$L$。比如当$L$=[1, 2, 3, 4, 5, 6]，$t$=4时，反转后的列表是[3, 2, 1, 4, 6, 5]。  ">
+  <meta name="description" content=" 三角形可以分成三类：等边三角形，等腰三角形和不等边三角形。编写一个函数，输入参数是三个正整数，如果这三个数可以满足构成三角形三条边的关系，则返回这个三角形的类型：等边三角形返回1，等腰三角形返回2，不等边三角形返回3；否则，返回None   假设Spring的第一天是March 20，Summer的第一天是June 21，Autumn的第一天是September 22，Winter的第一天是December 21。编写一个函数，输入参数是一个字符串month和一个整数day，返回month和day表示的季节。比如输入是June和20，返回Spring。   编写一个函数，输入参数是一个正整数，如果该数是质数，返回True，否则返回False。   编写一个函数，输入参数是一个正整数，返回该数所有的数字之和。比如输入是12345，那么返回15。   编写一个函数，输入参数是三个正整数，返回这三个数的最小公倍数。比如输入是2, 3, 8，那么返回24。  ">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://0.0.0.0/homework/python/2/">
+  <link rel="alternate" hreflang="en-us" href="http://0.0.0.0/homework/python/3/">
 
   
 
@@ -258,7 +258,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="http://0.0.0.0/homework/python/2/">
+  <link rel="canonical" href="http://0.0.0.0/homework/python/3/">
 
   
   
@@ -274,9 +274,9 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="An Liu">
-  <meta property="og:url" content="http://0.0.0.0/homework/python/2/">
+  <meta property="og:url" content="http://0.0.0.0/homework/python/3/">
   <meta property="og:title" content=" | An Liu">
-  <meta property="og:description" content=" 构造合适的range对象，生成下列序列：   50, 60, 70, 80 8, 6, 4, 2, 0, -2, -4, -6, -8   使用列表推导，生成下列列表：   [1, 2, 4, 8, 16, 32, 64, 128] [0, 2, 6, 12, 20, 30, 42, 56] [1, -3, 5, -7, 9, -11, 13, -15]   使用列表推导，在不输入所有26个英文字母的情况下产生列表[&lsquo;a&rsquo;, &lsquo;b&rsquo;, &lsquo;c&rsquo;, &hellip;, &lsquo;z&rsquo;]。提示：可以使用内置函数chr()和ord()。   编写一个函数，输入参数是一个字符串，返回其中元音字母的个数。   编写一个函数，输入参数是两个列表$a$和$b$，返回列表$c$，其第$i$个元素$c[i]=a[i]\times b[i]$。   编写一个函数，输入参数是两个列表$a$和$b$，以列表返回它们的公共元素。比如当$a$=[1, 2, 3]，$b$=[2, 3, 4]时，返回列表$c$=[2, 3]。   编写一个函数，输入参数是一个整数列表$L$和一个整数$t$，如果$t$不在$L$中，返回$L$，否则将$t$前面的元素和后面的元素分别反转，返回反转后的$L$。比如当$L$=[1, 2, 3, 4, 5, 6]，$t$=4时，反转后的列表是[3, 2, 1, 4, 6, 5]。  "><meta property="og:image" content="http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content=" 三角形可以分成三类：等边三角形，等腰三角形和不等边三角形。编写一个函数，输入参数是三个正整数，如果这三个数可以满足构成三角形三条边的关系，则返回这个三角形的类型：等边三角形返回1，等腰三角形返回2，不等边三角形返回3；否则，返回None   假设Spring的第一天是March 20，Summer的第一天是June 21，Autumn的第一天是September 22，Winter的第一天是December 21。编写一个函数，输入参数是一个字符串month和一个整数day，返回month和day表示的季节。比如输入是June和20，返回Spring。   编写一个函数，输入参数是一个正整数，如果该数是质数，返回True，否则返回False。   编写一个函数，输入参数是一个正整数，返回该数所有的数字之和。比如输入是12345，那么返回15。   编写一个函数，输入参数是三个正整数，返回这三个数的最小公倍数。比如输入是2, 3, 8，那么返回24。  "><meta property="og:image" content="http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -625,40 +625,23 @@
 
     <div class="article-style">
       <ol>
-<li>构造合适的range对象，生成下列序列：</li>
+<li>三角形可以分成三类：等边三角形，等腰三角形和不等边三角形。编写一个函数，输入参数是三个正整数，如果这三个数可以满足构成三角形三条边的关系，则返回这个三角形的类型：等边三角形返回1，等腰三角形返回2，不等边三角形返回3；否则，返回None</li>
 </ol>
-<ul>
-<li>50, 60, 70, 80</li>
-<li>8, 6, 4, 2, 0, -2, -4, -6, -8</li>
-</ul>
 <hr>
 <ol start="2">
-<li>使用列表推导，生成下列列表：</li>
+<li>假设Spring的第一天是March 20，Summer的第一天是June 21，Autumn的第一天是September 22，Winter的第一天是December 21。编写一个函数，输入参数是一个字符串month和一个整数day，返回month和day表示的季节。比如输入是June和20，返回Spring。</li>
 </ol>
-<ul>
-<li>[1, 2, 4, 8, 16, 32, 64, 128]</li>
-<li>[0, 2, 6, 12, 20, 30, 42, 56]</li>
-<li>[1, -3, 5, -7, 9, -11, 13, -15]</li>
-</ul>
 <hr>
 <ol start="3">
-<li>使用列表推导，在不输入所有26个英文字母的情况下产生列表[&lsquo;a&rsquo;, &lsquo;b&rsquo;, &lsquo;c&rsquo;, &hellip;, &lsquo;z&rsquo;]。提示：可以使用内置函数<code>chr()</code>和<code>ord()</code>。</li>
+<li>编写一个函数，输入参数是一个正整数，如果该数是质数，返回True，否则返回False。</li>
 </ol>
 <hr>
 <ol start="4">
-<li>编写一个函数，输入参数是一个字符串，返回其中元音字母的个数。</li>
+<li>编写一个函数，输入参数是一个正整数，返回该数所有的数字之和。比如输入是12345，那么返回15。</li>
 </ol>
 <hr>
 <ol start="5">
-<li>编写一个函数，输入参数是两个列表$a$和$b$，返回列表$c$，其第$i$个元素$c[i]=a[i]\times b[i]$。</li>
-</ol>
-<hr>
-<ol start="6">
-<li>编写一个函数，输入参数是两个列表$a$和$b$，以列表返回它们的公共元素。比如当$a$=[1, 2, 3]，$b$=[2, 3, 4]时，返回列表$c$=[2, 3]。</li>
-</ol>
-<hr>
-<ol start="7">
-<li>编写一个函数，输入参数是一个整数列表$L$和一个整数$t$，如果$t$不在$L$中，返回$L$，否则将$t$前面的元素和后面的元素分别反转，返回反转后的$L$。比如当$L$=[1, 2, 3, 4, 5, 6]，$t$=4时，反转后的列表是[3, 2, 1, 4, 6, 5]。</li>
+<li>编写一个函数，输入参数是三个正整数，返回这三个数的最小公倍数。比如输入是2, 3, 8，那么返回24。</li>
 </ol>
 
     </div>
@@ -683,7 +666,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://0.0.0.0/homework/python/2/&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://0.0.0.0/homework/python/3/&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -696,7 +679,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://0.0.0.0/homework/python/2/&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://0.0.0.0/homework/python/3/&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -709,7 +692,7 @@
       
       
       <li>
-        <a href="mailto:?subject=&amp;body=http://0.0.0.0/homework/python/2/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=&amp;body=http://0.0.0.0/homework/python/3/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -722,7 +705,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://0.0.0.0/homework/python/2/&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://0.0.0.0/homework/python/3/&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -735,7 +718,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%20http://0.0.0.0/homework/python/2/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=%20http://0.0.0.0/homework/python/3/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -748,7 +731,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://0.0.0.0/homework/python/2/&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://0.0.0.0/homework/python/3/&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>

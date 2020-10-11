@@ -30,10 +30,10 @@
   
     
   
-  <meta name="description" content=" 构造合适的range对象，生成下列序列：   50, 60, 70, 80 8, 6, 4, 2, 0, -2, -4, -6, -8   使用列表推导，生成下列列表：   [1, 2, 4, 8, 16, 32, 64, 128] [0, 2, 6, 12, 20, 30, 42, 56] [1, -3, 5, -7, 9, -11, 13, -15]   使用列表推导，在不输入所有26个英文字母的情况下产生列表[&lsquo;a&rsquo;, &lsquo;b&rsquo;, &lsquo;c&rsquo;, &hellip;, &lsquo;z&rsquo;]。提示：可以使用内置函数chr()和ord()。   编写一个函数，输入参数是一个字符串，返回其中元音字母的个数。   编写一个函数，输入参数是两个列表$a$和$b$，返回列表$c$，其第$i$个元素$c[i]=a[i]\times b[i]$。   编写一个函数，输入参数是两个列表$a$和$b$，以列表返回它们的公共元素。比如当$a$=[1, 2, 3]，$b$=[2, 3, 4]时，返回列表$c$=[2, 3]。   编写一个函数，输入参数是一个整数列表$L$和一个整数$t$，如果$t$不在$L$中，返回$L$，否则将$t$前面的元素和后面的元素分别反转，返回反转后的$L$。比如当$L$=[1, 2, 3, 4, 5, 6]，$t$=4时，反转后的列表是[3, 2, 1, 4, 6, 5]。  ">
+  <meta name="description" content=" 编写一个函数，输入参数是一个正整数$n$，返回第一个大于$n$的质数。   如果一个正整数$n$的所有因子（不包括其本身）之和等于$n$，称该数是完美数。比如28的所有因子之和是1&#43;2&#43;4&#43;7&#43;14=28，所以它是一个完美数。编写一个函数，输入参数是一个正整数，如果其是完美数，返回True，否则返回False。   一个正整数的密度定义为其各位数字的和与其位数的商。比如1234的密度是(1&#43;2&#43;3&#43;4)/4=2.5。编写一个函数，输入参数是一个正整数，返回该数的密度。   编写一个函数，输入参数是一个整数列表，返回该列表中出现次数最多的数以及它的出现次数。比如输入列表是[1,2,3,2,3,4,3,4,5]，那么返回(3, 3)，因为数字3出现次数最多，共出现了3次。   斐波那契数列的前两项是1和1，后面每项都是其前两项的和，即1,1,2,3,5,8,13,21,…。编写一个函数，输入参数是正整数$n$，返回斐波那契数列前$n$项的和。   编写一个函数，输入参数是两个正整数$a$和$n$，返回$S_n=a&#43;aa&#43;\cdots&#43;\overbrace{a\cdots a}^{n}$的值。比如当$a$=3，$n$=5时，返回值为3&#43;33&#43;333&#43;3333&#43;33333=37035   如果一个质数倒过来写仍然是一个质数，那么称其是反质数。比如17倒过来写是71，且两者均为质数，所以17和71都是反质数。编写一个函数，输入参数是一个正整数$n$，以列表的形式返回前$n$个反质数。   编写一个函数，输入参数是一个整数列表，将其按照整数的因子个数从大到小排序，如果因子个数相等，则按照整数自然大小升序排序，返回排序后的列表。比如输入列表是[14, 12, 6]，返回列表是[12, 6, 14] 。因为14有3个因子（1, 2, 7），12有5个因子（1, 2, 3, 4, 6），6有3个因子（1, 2, 3）。   如果一个字符串可以通过重新排列另一个字符串的字符得到，称这两个字符串同构。比如字符串cat和act同构，字符串leader和dealer同构。编写一个函数，输入参数是两个由小写字符组成的字符串，如果它们是同构的，返回True，否则返回False。   编写一个函数，输入参数是一个字符串列表，将其中同构的字符串删除，返回删除后的列表。比如输入列表是[‘cat’, ‘leader’, ‘bus’, ‘act’, ‘dealer’, ‘but’]，返回列表是[‘bus’, ‘but’]。因为cat和act同构，leader和dealer同构。  ">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://0.0.0.0/homework/python/2/">
+  <link rel="alternate" hreflang="en-us" href="http://0.0.0.0/homework/python/5/">
 
   
 
@@ -258,7 +258,7 @@
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="http://0.0.0.0/homework/python/2/">
+  <link rel="canonical" href="http://0.0.0.0/homework/python/5/">
 
   
   
@@ -274,9 +274,9 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="An Liu">
-  <meta property="og:url" content="http://0.0.0.0/homework/python/2/">
+  <meta property="og:url" content="http://0.0.0.0/homework/python/5/">
   <meta property="og:title" content=" | An Liu">
-  <meta property="og:description" content=" 构造合适的range对象，生成下列序列：   50, 60, 70, 80 8, 6, 4, 2, 0, -2, -4, -6, -8   使用列表推导，生成下列列表：   [1, 2, 4, 8, 16, 32, 64, 128] [0, 2, 6, 12, 20, 30, 42, 56] [1, -3, 5, -7, 9, -11, 13, -15]   使用列表推导，在不输入所有26个英文字母的情况下产生列表[&lsquo;a&rsquo;, &lsquo;b&rsquo;, &lsquo;c&rsquo;, &hellip;, &lsquo;z&rsquo;]。提示：可以使用内置函数chr()和ord()。   编写一个函数，输入参数是一个字符串，返回其中元音字母的个数。   编写一个函数，输入参数是两个列表$a$和$b$，返回列表$c$，其第$i$个元素$c[i]=a[i]\times b[i]$。   编写一个函数，输入参数是两个列表$a$和$b$，以列表返回它们的公共元素。比如当$a$=[1, 2, 3]，$b$=[2, 3, 4]时，返回列表$c$=[2, 3]。   编写一个函数，输入参数是一个整数列表$L$和一个整数$t$，如果$t$不在$L$中，返回$L$，否则将$t$前面的元素和后面的元素分别反转，返回反转后的$L$。比如当$L$=[1, 2, 3, 4, 5, 6]，$t$=4时，反转后的列表是[3, 2, 1, 4, 6, 5]。  "><meta property="og:image" content="http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content=" 编写一个函数，输入参数是一个正整数$n$，返回第一个大于$n$的质数。   如果一个正整数$n$的所有因子（不包括其本身）之和等于$n$，称该数是完美数。比如28的所有因子之和是1&#43;2&#43;4&#43;7&#43;14=28，所以它是一个完美数。编写一个函数，输入参数是一个正整数，如果其是完美数，返回True，否则返回False。   一个正整数的密度定义为其各位数字的和与其位数的商。比如1234的密度是(1&#43;2&#43;3&#43;4)/4=2.5。编写一个函数，输入参数是一个正整数，返回该数的密度。   编写一个函数，输入参数是一个整数列表，返回该列表中出现次数最多的数以及它的出现次数。比如输入列表是[1,2,3,2,3,4,3,4,5]，那么返回(3, 3)，因为数字3出现次数最多，共出现了3次。   斐波那契数列的前两项是1和1，后面每项都是其前两项的和，即1,1,2,3,5,8,13,21,…。编写一个函数，输入参数是正整数$n$，返回斐波那契数列前$n$项的和。   编写一个函数，输入参数是两个正整数$a$和$n$，返回$S_n=a&#43;aa&#43;\cdots&#43;\overbrace{a\cdots a}^{n}$的值。比如当$a$=3，$n$=5时，返回值为3&#43;33&#43;333&#43;3333&#43;33333=37035   如果一个质数倒过来写仍然是一个质数，那么称其是反质数。比如17倒过来写是71，且两者均为质数，所以17和71都是反质数。编写一个函数，输入参数是一个正整数$n$，以列表的形式返回前$n$个反质数。   编写一个函数，输入参数是一个整数列表，将其按照整数的因子个数从大到小排序，如果因子个数相等，则按照整数自然大小升序排序，返回排序后的列表。比如输入列表是[14, 12, 6]，返回列表是[12, 6, 14] 。因为14有3个因子（1, 2, 7），12有5个因子（1, 2, 3, 4, 6），6有3个因子（1, 2, 3）。   如果一个字符串可以通过重新排列另一个字符串的字符得到，称这两个字符串同构。比如字符串cat和act同构，字符串leader和dealer同构。编写一个函数，输入参数是两个由小写字符组成的字符串，如果它们是同构的，返回True，否则返回False。   编写一个函数，输入参数是一个字符串列表，将其中同构的字符串删除，返回删除后的列表。比如输入列表是[‘cat’, ‘leader’, ‘bus’, ‘act’, ‘dealer’, ‘but’]，返回列表是[‘bus’, ‘but’]。因为cat和act同构，leader和dealer同构。  "><meta property="og:image" content="http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="http://0.0.0.0/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -625,40 +625,43 @@
 
     <div class="article-style">
       <ol>
-<li>构造合适的range对象，生成下列序列：</li>
+<li>编写一个函数，输入参数是一个正整数$n$，返回第一个大于$n$的质数。</li>
 </ol>
-<ul>
-<li>50, 60, 70, 80</li>
-<li>8, 6, 4, 2, 0, -2, -4, -6, -8</li>
-</ul>
 <hr>
 <ol start="2">
-<li>使用列表推导，生成下列列表：</li>
+<li>如果一个正整数$n$的所有因子（不包括其本身）之和等于$n$，称该数是完美数。比如28的所有因子之和是1+2+4+7+14=28，所以它是一个完美数。编写一个函数，输入参数是一个正整数，如果其是完美数，返回True，否则返回False。</li>
 </ol>
-<ul>
-<li>[1, 2, 4, 8, 16, 32, 64, 128]</li>
-<li>[0, 2, 6, 12, 20, 30, 42, 56]</li>
-<li>[1, -3, 5, -7, 9, -11, 13, -15]</li>
-</ul>
 <hr>
 <ol start="3">
-<li>使用列表推导，在不输入所有26个英文字母的情况下产生列表[&lsquo;a&rsquo;, &lsquo;b&rsquo;, &lsquo;c&rsquo;, &hellip;, &lsquo;z&rsquo;]。提示：可以使用内置函数<code>chr()</code>和<code>ord()</code>。</li>
+<li>一个正整数的密度定义为其各位数字的和与其位数的商。比如1234的密度是(1+2+3+4)/4=2.5。编写一个函数，输入参数是一个正整数，返回该数的密度。</li>
 </ol>
 <hr>
 <ol start="4">
-<li>编写一个函数，输入参数是一个字符串，返回其中元音字母的个数。</li>
+<li>编写一个函数，输入参数是一个整数列表，返回该列表中出现次数最多的数以及它的出现次数。比如输入列表是[1,2,3,2,3,4,3,4,5]，那么返回(3, 3)，因为数字3出现次数最多，共出现了3次。</li>
 </ol>
 <hr>
 <ol start="5">
-<li>编写一个函数，输入参数是两个列表$a$和$b$，返回列表$c$，其第$i$个元素$c[i]=a[i]\times b[i]$。</li>
+<li>斐波那契数列的前两项是1和1，后面每项都是其前两项的和，即1,1,2,3,5,8,13,21,…。编写一个函数，输入参数是正整数$n$，返回斐波那契数列前$n$项的和。</li>
 </ol>
 <hr>
 <ol start="6">
-<li>编写一个函数，输入参数是两个列表$a$和$b$，以列表返回它们的公共元素。比如当$a$=[1, 2, 3]，$b$=[2, 3, 4]时，返回列表$c$=[2, 3]。</li>
+<li>编写一个函数，输入参数是两个正整数$a$和$n$，返回$S_n=a+aa+\cdots+\overbrace{a\cdots a}^{n}$的值。比如当$a$=3，$n$=5时，返回值为3+33+333+3333+33333=37035</li>
 </ol>
 <hr>
 <ol start="7">
-<li>编写一个函数，输入参数是一个整数列表$L$和一个整数$t$，如果$t$不在$L$中，返回$L$，否则将$t$前面的元素和后面的元素分别反转，返回反转后的$L$。比如当$L$=[1, 2, 3, 4, 5, 6]，$t$=4时，反转后的列表是[3, 2, 1, 4, 6, 5]。</li>
+<li>如果一个质数倒过来写仍然是一个质数，那么称其是反质数。比如17倒过来写是71，且两者均为质数，所以17和71都是反质数。编写一个函数，输入参数是一个正整数$n$，以列表的形式返回前$n$个反质数。</li>
+</ol>
+<hr>
+<ol start="8">
+<li>编写一个函数，输入参数是一个整数列表，将其按照整数的因子个数从大到小排序，如果因子个数相等，则按照整数自然大小升序排序，返回排序后的列表。比如输入列表是[14, 12, 6]，返回列表是[12, 6, 14] 。因为14有3个因子（1, 2, 7），12有5个因子（1, 2, 3, 4, 6），6有3个因子（1, 2, 3）。</li>
+</ol>
+<hr>
+<ol start="9">
+<li>如果一个字符串可以通过重新排列另一个字符串的字符得到，称这两个字符串同构。比如字符串cat和act同构，字符串leader和dealer同构。编写一个函数，输入参数是两个由小写字符组成的字符串，如果它们是同构的，返回True，否则返回False。</li>
+</ol>
+<hr>
+<ol start="10">
+<li>编写一个函数，输入参数是一个字符串列表，将其中同构的字符串删除，返回删除后的列表。比如输入列表是[‘cat’, ‘leader’, ‘bus’, ‘act’, ‘dealer’, ‘but’]，返回列表是[‘bus’, ‘but’]。因为cat和act同构，leader和dealer同构。</li>
 </ol>
 
     </div>
@@ -683,7 +686,7 @@
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=http://0.0.0.0/homework/python/2/&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=http://0.0.0.0/homework/python/5/&amp;text=" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -696,7 +699,7 @@
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=http://0.0.0.0/homework/python/2/&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=http://0.0.0.0/homework/python/5/&amp;t=" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -709,7 +712,7 @@
       
       
       <li>
-        <a href="mailto:?subject=&amp;body=http://0.0.0.0/homework/python/2/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=&amp;body=http://0.0.0.0/homework/python/5/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -722,7 +725,7 @@
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=http://0.0.0.0/homework/python/2/&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=http://0.0.0.0/homework/python/5/&amp;title=" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -735,7 +738,7 @@
       
       
       <li>
-        <a href="whatsapp://send?text=%20http://0.0.0.0/homework/python/2/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=%20http://0.0.0.0/homework/python/5/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -748,7 +751,7 @@
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=http://0.0.0.0/homework/python/2/&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=http://0.0.0.0/homework/python/5/&amp;title=" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
